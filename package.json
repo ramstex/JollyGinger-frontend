@@ -1,0 +1,30 @@
+{
+    "name": "jolly-ginger--frontend",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "nuxt build",
+        "dev": "nuxt dev",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview",
+        "postinstall": "nuxt prepare"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/ramstex/JollyGinger-frontend.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ramstex/JollyGinger-frontend/issues"
+    },
+    "homepage": "https://github.com/ramstex/JollyGinger-frontend#readme",
+    "dependencies": {
+        "@nuxt/ui": "^2.15.2",
+        "nuxt": "^3.11.2"
+    },
+    "devDependencies": {
+        "sass": "^1.75.0"
+    }
+}

@@ -1,7 +1,7 @@
 <template>
-    <nav class="nav">
+    <UVerticalNavigation class="navbar">
         <Container>
             <p>NAV</p>
         </Container>
-    </nav>
+    </UVerticalNavigation>
 </template>
